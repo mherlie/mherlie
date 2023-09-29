@@ -1,7 +1,8 @@
 # <p align="center"> Hello, it's Mherlie! 👋 </p>
 
-# <p align="center"> ![gif java](https://github.com/mherlie/mherlie/assets/126627774/897355e7-21a8-4902-917c-476cf794548d) </p>
+# <p align="center"> ![gif java](https://github.com/mherlie/mherlie/assets/126627774/6704adc0-91ac-435b-9866-9e702f9325ba) </p>
 </br>
+
 
 ### Hey there! 👋
 
