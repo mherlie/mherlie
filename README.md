@@ -1,6 +1,6 @@
 # <p align="center"> Hello, it's Mherlie! 👋 </p>
 
-# <p align="center"> ![gif java](https://g![prog](https://github.com/mherlie/mherlie/assets/126627774/1e4786a3-e15f-4958-980e-51707d1cf57a) </p>
+# <p align="center"> ![gif java] ![prog](https://github.com/mherlie/mherlie/assets/126627774/897355e7-21a8-4902-917c-476cf794548d) </p>
 </br>
 
 ### Hey there! 👋
