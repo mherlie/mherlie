@@ -9,9 +9,8 @@
 
  - 🔭 I’m Mherlie Joy!
  - 🌱 MBTI: INFP
- - 👯 Relationship Status: Taken XD
  - 🤔 Interests: Learning of programming languages.
- - 💬 Hobbies: Reading Books
+ - 💬 Hobbies: Sleep
  - 😄 Pronouns: She/Her
  - ⚡ Fun fact: I love my course. 
 
